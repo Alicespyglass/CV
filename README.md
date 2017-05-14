@@ -12,10 +12,10 @@ Junior full-stack developer with a background in #Fin. Stepping through the sili
 ## PROJECTS
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-| 1. Boris bikes in Ruby ([Github](https://github.com/Alicespyglass/boris-bikes)) | My first week of coding at Makers academy. Compare it to other projects to see how far I've come|Ruby | RSpec |
+| 1. Boris bikes in Ruby ([Github](https://github.com/Alicespyglass/boris-bikes)) | My first week of coding at Makers academy. Compare it to other projects to see how far I've come. |Ruby | RSpec |
 | 2. Find My Train ([Github](https://github.com/Alicespyglass/wk9-group-practice-project-Trainspotting))|Ever wondered which train you're on and needed to let someone know when you'd get to a station? Group project to build a web app to do just that in one week. | Javascript, Bootstrap, NodeJS, Heroku, APIs: Geolocator; Transport; Whatsapp | Jasmine, Mocha |
 | 3. Makers B'n'B ([Github](https://github.com/Alicespyglass/makers-bnb))| 4 developers with 5 weeks' experience modelling a website on an online business valued at $30bn. Challenge accepted. | Ruby, HTML, CSS, Datamapper, Postgresql, Sinatra, Selenium-Webdriver, Bcrypt | Rspec, Capybara, Coveralls |
-| 4. Elocution with Alexa ([Github](https://github.com/Alicespyglass/alexa1-hello-world))| A play with voice technology by building a skill on Amazon Echo | Ruby, Sinatra, Amazon Alexa skills kit  | Echosim.io |
+| 4. Elocution with Alexa ([Github](https://github.com/Alicespyglass/alexa1-hello-world))| A play with voice technology by building a skill on Amazon Echo. | Ruby, Sinatra, Amazon Alexa skills kit  | Echosim.io |
 | 5. Watch this space for my final group project at Makers Academy |
 
 
