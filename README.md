@@ -60,7 +60,7 @@ Advising UK final salary schemes on investment strategy and risk management to e
 - Curiosity for technology, passion for code, hunger for learning
 - Fearless experimenter, problem-solver, pair-programmer
 - Learning SOLID development principles and using coding best practices day-to-day (i.e. XP, Agile, TDD)        
-- Striving for software craftsmanship
+- Striving for software craftsmanship and ruthless refactoring
 
 
 #### CFA LEVEL II PASSED, CFA / 2015
