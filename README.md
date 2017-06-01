@@ -84,10 +84,10 @@ Advising UK final salary schemes on investment strategy and risk management to e
 <a href="https://twitter.com/Alicespyglass">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
 
-<a href="https://www.linkedin.com/in/alicespyglass/">
-<img src="http://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.gif" alt="linkedin" hspace="50" height="42" width="42"></a>
-
 <a href="https://medium.com/@alicespyglass">
 <img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/alicespyglass/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 </p>
